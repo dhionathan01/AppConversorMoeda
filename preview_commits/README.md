@@ -11,3 +11,6 @@
 
 * Implementando front end de rascunho:
 ![alt text](image-2.png)
+
+* BackEnd conversão de moedas aplicado:
+![alt text](<logica para  conversao moeda aplicada.gif>)
