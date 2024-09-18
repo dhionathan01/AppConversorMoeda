@@ -1,0 +1,1 @@
+![alt text](<preview_commits/logica para  conversao moeda aplicada.gif>)
