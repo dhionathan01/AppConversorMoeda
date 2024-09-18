@@ -8,3 +8,6 @@
 
 * consumindo api e colocando loading indicativo do carregamento dos dados:
 ![alt text](<consumindo_api e colocando um loading indicador.gif>)
+
+* Implementando front end de rascunho:
+![alt text](image-2.png)
